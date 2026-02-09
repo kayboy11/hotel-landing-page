@@ -2,7 +2,7 @@
 This is a simple hotel landing page designed with HTML and CSS.
 
 ## Demo
-To visit directly from your web browser, click here: https://kayboy11.github.io/hotel-landing-page/
+To visit directly from your web browser, [click here](https://kayboy11.github.io/hotel-landing-page/)
 
 ## Features
 - Background image
